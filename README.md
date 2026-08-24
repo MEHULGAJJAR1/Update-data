@@ -4,7 +4,7 @@
 
 I'm a PG student specializing in Artificial Intelligence & Data Science with hands-on experience in full-stack development, backend engineering, machine learning, and AI-powered applications.
 
-I enjoy building practical solutions that combine **AI, data, software engineering, and cloud technologies**.
+I enjoy building practical solutions that combine **AI, data, software engineering, and cloud technologies**..
 
 ---
 

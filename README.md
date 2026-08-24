@@ -10,7 +10,7 @@ I enjoy building practical solutions that combine **AI, data, software engineeri
 
 ## 🚀 About Me
 
-- 🎓 PG in Artificial Intelligence & Data Science
+- 🎓 PG in Artificial Intelligence & Data Science.
 - 💻 Full-Stack & Backend Developer
 - 🤖 AI / ML / Generative AI Enthusiast
 - ☁️ Exploring AWS & Cloud Deployment

@@ -57,7 +57,7 @@ I enjoy building practical solutions that combine **AI, data, software engineeri
 
 ---
 
-## 🏆 Featured Project
+## 🏆 Featured ProjectS
 
 ### 🤖 AI CFO & Financial Advisor for MSMEs
 
